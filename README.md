@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hinnerk</h1>
 <h3 align="center">A passionate backend developer from Germany</h3>
 
-- 🔭 I’m currently working on [nerdadvisor](www.nerdadvisor.org)
+- 🔭 I’m currently working on [NerdAdvisor](www.nerdadvisor.org)
 
 - 🌱 I’m currently learning **Flask and React**
 

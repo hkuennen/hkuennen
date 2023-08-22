@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hinnerk</h1>
-<h3 align="center">A passionate backend developer from Germany</h3>
+<h3 align="center">A passionate Full Stack Developer from Germany</h3>
 
 - 🔭 I’m currently working on [NerdAdvisor](https://vimeo.com/786852077)
 

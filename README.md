@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NerdAdvisor](https://vimeo.com/786852077)
 
-- 🌱 I’m currently learning **Flask and React**
+- 🌱 I’m currently learning **Django and React**
 
 - 💬 Ask me about **reportlab and smtplib**
 

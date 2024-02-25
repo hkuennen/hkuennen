@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django and SolidJS**
 
-- 💬 Ask me about **React and Redux**
+- 💬 Ask me about **Flask and React**
 
 - 📫 How to reach me **hinnerk.kuennen@gmail.com**
 

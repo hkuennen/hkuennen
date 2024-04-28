@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [NerdAdvisor](https://vimeo.com/786852077)
 
-- 🌱 I’m currently learning **Django and SolidJS**
+- 🌱 I’m currently learning **Django and Rust**
 
-- 💬 Ask me about **Flask and React**
+- 💬 Ask me about **React and SolidJS**
 
 - 📫 How to reach me **hinnerk.kuennen@gmail.com**
 

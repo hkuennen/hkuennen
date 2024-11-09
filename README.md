@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NerdAdvisor](https://vimeo.com/786852077)
 
-- 🌱 I’m currently learning **Django and Rust**
+- 🌱 I’m currently learning **Rust and C++**
 
 - 💬 Ask me about **React and SolidJS**
 

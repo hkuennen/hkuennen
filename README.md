@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hinnerk</h1>
 <h3 align="center">A passionate Software Developer from Germany</h3>
 
-- 🔭 I’m currently working on [NerdAdvisor](https://vimeo.com/786852077)
+- 🔭 I’m currently working on [NerdAdvisor](https://vimeo.com/786852077) and [Gener8Invoice](https://www.gener8invoice.com)
 
 - 🌱 I’m currently learning **Rust and C++**
 

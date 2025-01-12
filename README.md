@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hinnerk</h1>
 <h3 align="center">A passionate Software Developer from Germany</h3>
 
-<p>Starting as a frontend dev, I transitioned into fullstack and am now diving deeper into the embedded world.</p>
+<p>Starting as a Frontend Developer, I transitioned into Fullstack Development and am now diving deeper into the embedded world.</p>
 
 - 🔭 I’m currently working on [NerdAdvisor](https://vimeo.com/786852077) and [Gener8Invoice](https://www.gener8invoice.com)
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hinnerkkuennen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hinnerkkuennen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hkuennen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hkuennen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

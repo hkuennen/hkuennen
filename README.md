@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hinnerk</h1>
 <h3 align="center">A passionate Software Developer from Germany</h3>
 
-<p>Starting as a frontend developer, I transitioned into fullstack development and am now diving deeper into the embedded world.</p>
+<p>Starting as a frontend dev, I transitioned into fullstack and am now diving deeper into the embedded world.</p>
 
 - 🔭 I’m currently working on [NerdAdvisor](https://vimeo.com/786852077) and [Gener8Invoice](https://www.gener8invoice.com)
 

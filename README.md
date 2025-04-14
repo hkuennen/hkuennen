@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [NerdAdvisor](https://vimeo.com/786852077) and [Gener8Invoice](https://www.gener8invoice.com)
 
-- 🌱 I’m currently learning **Rust and C++**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **React and SolidJS**
 

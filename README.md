@@ -3,7 +3,7 @@
 
 <p>Starting as a Frontend Developer, I transitioned into Fullstack Development and am now diving deeper into the embedded world.</p>
 
-- 🔭 I’m currently working on [NerdAdvisor](https://vimeo.com/786852077) and [Gener8Invoice](https://www.gener8invoice.com)
+- 🔭 I’m currently working on [Gener8Invoice](https://www.gener8invoice.com)
 
 - 🌱 I’m currently learning **Rust**
 
